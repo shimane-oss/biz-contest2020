@@ -1,0 +1,5 @@
+drwxr-xr-x    2 500      500          4096 Oct 11  2019 .
+drwxr-xr-x    5 500      500          4096 Oct 11  2019 ..
+-rw-r--r--    1 500      500         55771 Oct 11  2019 jquery.js
+-rw-r--r--    1 500      500         20184 Feb 26 08:17 jquery.lightbox-0.5.js
+-rw-r--r--    1 500      500           766 Oct 11  2019 rollover.js
